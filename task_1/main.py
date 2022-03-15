@@ -1,4 +1,4 @@
-def get_top_ngramms(n,ktop,mytext,mywords): 
+def get_top_ngramms(n, ktop, mytext, mywords): 
     result = {}
     
     def count_anagramms(word):
@@ -26,6 +26,7 @@ def get_top_ngramms(n,ktop,mytext,mywords):
 
     return result 
 
+
 def main():
     while True:
         choice = input("Enter '0' to write text, or '1' to read from .txt file:")
@@ -46,7 +47,7 @@ def main():
     i = 1
     text = text.replace(","," ")
     text = text.replace("..."," ")
-    text = text.replace(";"," ")
+    text = text.replace(";"," ")    
     text = text.replace(":"," ")
     text = text.strip()
 
@@ -91,7 +92,7 @@ def main():
         uniqe_dict.update({words[i]:words.count(words[i])})
         
     print(f"Every word count:{uniqe_dict}")
-    print(f"Top ngrams:{get_top_ngramms(4,10,text,words)}")
+    print(f"Top ngrams:{ get_top_ngramms(4, 10, text, words) }")
 
 
 
