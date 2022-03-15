@@ -33,7 +33,7 @@ def main():
             text = input("Enter text:")
             break
         elif choice == '1':
-            with open("/home/pavel/ISP-2022-053504/task_1/text.txt", "r") as f:
+            with open("./text.txt", "r") as f:
                 text = f.read()
                 print(text)
             break
