@@ -1,0 +1,157 @@
+[type]
+str = "function"
+
+[value]
+__closure__ = []
+
+[value.__name__]
+str = "f"
+
+[value.__code__]
+co_cellvars = []
+co_freevars = []
+[[value.__code__.co_consts]]
+None = "None"
+
+[[value.__code__.co_consts]]
+int = "123"
+
+[[value.__code__.co_names]]
+str = "math"
+
+[[value.__code__.co_names]]
+str = "sin"
+
+[[value.__code__.co_names]]
+str = "c"
+
+[[value.__code__.co_varnames]]
+str = "x"
+
+[[value.__code__.co_varnames]]
+str = "a"
+
+[value.__globals__.c]
+int = "42"
+
+[value.__globals__.f]
+str = "f"
+
+[value.__code__.co_argcount]
+int = "1"
+
+[value.__code__.co_code]
+[[value.__code__.co_code.value]]
+int = "100"
+
+[[value.__code__.co_code.value]]
+int = "1"
+
+[[value.__code__.co_code.value]]
+int = "125"
+
+[[value.__code__.co_code.value]]
+int = "1"
+
+[[value.__code__.co_code.value]]
+int = "116"
+
+[[value.__code__.co_code.value]]
+int = "0"
+
+[[value.__code__.co_code.value]]
+int = "160"
+
+[[value.__code__.co_code.value]]
+int = "1"
+
+[[value.__code__.co_code.value]]
+int = "124"
+
+[[value.__code__.co_code.value]]
+int = "0"
+
+[[value.__code__.co_code.value]]
+int = "124"
+
+[[value.__code__.co_code.value]]
+int = "1"
+
+[[value.__code__.co_code.value]]
+int = "20"
+
+[[value.__code__.co_code.value]]
+int = "0"
+
+[[value.__code__.co_code.value]]
+int = "116"
+
+[[value.__code__.co_code.value]]
+int = "2"
+
+[[value.__code__.co_code.value]]
+int = "20"
+
+[[value.__code__.co_code.value]]
+int = "0"
+
+[[value.__code__.co_code.value]]
+int = "161"
+
+[[value.__code__.co_code.value]]
+int = "1"
+
+[[value.__code__.co_code.value]]
+int = "83"
+
+[[value.__code__.co_code.value]]
+int = "0"
+
+[value.__code__.co_filename]
+str = "/home/pavel/task_2/test_module.py"
+
+[value.__code__.co_firstlineno]
+int = "5"
+
+[value.__code__.co_flags]
+int = "67"
+
+[value.__code__.co_kwonlyargcount]
+int = "0"
+
+[value.__code__.co_lnotab]
+[[value.__code__.co_lnotab.value]]
+int = "0"
+
+[[value.__code__.co_lnotab.value]]
+int = "1"
+
+[[value.__code__.co_lnotab.value]]
+int = "4"
+
+[[value.__code__.co_lnotab.value]]
+int = "1"
+
+[value.__code__.co_name]
+str = "f"
+
+[value.__code__.co_nlocals]
+int = "2"
+
+[value.__code__.co_posonlyargcount]
+int = "0"
+
+[value.__code__.co_stacksize]
+int = "4"
+
+[value.__globals__.math.type]
+str = "module"
+
+[value.__code__.co_code.type]
+str = "bytes"
+
+[value.__code__.co_lnotab.type]
+str = "bytes"
+
+[value.__globals__.math.value.__name__]
+str = "math"
